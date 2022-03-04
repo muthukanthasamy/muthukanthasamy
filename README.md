@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @muthukanthasamy
-- 👀 I’m interested in c,C++ and web application development
+- 👀 I’m interested in C,C++ and web application development
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on mathematical problem solving.
 - 📫 How to reach me muthukrishnan.gogl@gmail.com
